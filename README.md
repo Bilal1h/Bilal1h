@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bilal1h
 - 👀 I’m interested in Software Development/Game Development
 - 🌱 I’m currently learning ... Python and its libraries
-- 💞️ I’m looking to collaborate on Owais Ali
+- 💞️ I’m looking to collaborate on Harry
 - 📫 How to reach me through my email : muhammadbilalhaider0@gmail.com or my whatsapp number : 03452898684
 
 <!---
